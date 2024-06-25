@@ -1,0 +1,16 @@
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/bin/Debug/net8.0/MicroRabbit.Infra.Bus.deps.json
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/bin/Debug/net8.0/MicroRabbit.Infra.Bus.dll
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/bin/Debug/net8.0/MicroRabbit.Infra.Bus.pdb
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/bin/Debug/net8.0/MicroRabbit.Domain.Core.dll
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/bin/Debug/net8.0/MicroRabbit.Domain.Core.pdb
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/obj/Debug/net8.0/MicroRabbit.Infra.Bus.csproj.AssemblyReference.cache
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/obj/Debug/net8.0/MicroRabbit.Infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/obj/Debug/net8.0/MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/obj/Debug/net8.0/MicroRabbit.Infra.Bus.AssemblyInfo.cs
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/obj/Debug/net8.0/MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/obj/Debug/net8.0/MicroRabbit.Infra.Bus.sourcelink.json
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/obj/Debug/net8.0/MicroRab.FA639025.Up2Date
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/obj/Debug/net8.0/MicroRabbit.Infra.Bus.dll
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/obj/Debug/net8.0/refint/MicroRabbit.Infra.Bus.dll
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/obj/Debug/net8.0/MicroRabbit.Infra.Bus.pdb
+/Users/sergio/Documents/Projects/MicroServicesRabbitMQ/Infra.Bus/MicroRabbit.Infra.Bus/obj/Debug/net8.0/ref/MicroRabbit.Infra.Bus.dll
